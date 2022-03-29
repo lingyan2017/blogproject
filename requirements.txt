@@ -39,7 +39,7 @@ MarkupSafe==1.1.1
 monotonic==1.5
 mysqlclient==1.4.6
 oauthlib==3.1.0
-paramiko==2.7.1
+paramiko==2.10.1
 Pillow==7.1.2
 pycparser==2.20
 pycryptodome==3.9.7
